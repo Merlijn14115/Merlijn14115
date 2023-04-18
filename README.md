@@ -20,7 +20,7 @@
 ## About Me :
 
 - I’m @merlijn14115
-- :books: This is my Personal archieve
+- :books: This is my Personal archive
 - 👀 I’m interested in playing games, art and music 
 - 🌱 I’m currently learning skill and programming. 
 - 💞️ I’m looking to collaborate on unity
